@@ -1,0 +1,24 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+GitHub/
+Lekce1/
+Lekce2/
+Lekce3/
+Lekce4/
+Lekce5/
+Lekce6/
+Lekce7/
+Lekce8/
+Lekce9/
+Lekce10/
+Lekce11/
+Lekce12/
